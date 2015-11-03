@@ -1,0 +1,27 @@
+{
+  "name": "auth-bot",
+  "version": "0.0.1",
+  "description": "EVE Auth on Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kallama/auth-bot.git"
+  },
+  "keywords": [
+    "eve",
+    "discord",
+    "auth"
+  ],
+  "author": "kalam <chris@m6u.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kallama/auth-bot/issues"
+  },
+  "homepage": "https://github.com/kallama/auth-bot#readme",
+  "dependencies": {
+    "discord.js": "^4.1.1"
+  }
+}
